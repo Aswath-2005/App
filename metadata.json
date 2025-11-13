@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Medicine Authenticator",
+  "description": "An application to detect counterfeit medicines by scanning product QR codes or barcodes. Get an instant authenticity verdict with a confidence score and detailed reasons. Users can also report suspicious products with photos and comments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
